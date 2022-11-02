@@ -2,6 +2,10 @@
 
 ## Created for LS-Story.pl by AlCapone (Modified by Plactrix)
 
+### Note
+
+This resource is **Untested**. If there are any bugs, please let me know and I will fix them as soon as possible
+
 ### Requirements
 * [mythic_notify](https://github.com/JayMontana36/mythic_notify)
 * [TokoVoip](https://github.com/Itokoyamato/TokoVOIP_TS3) or [TokoVoIP V2](https://github.com/Plactrix/TokoVoIP_v2)
