@@ -6,6 +6,11 @@ description "ls-radio Modified by Plactrix"
 version "1.0.0"
 lua54 "yes"
 
+dependencies {
+  "tokovoip_script",
+  "mythic_notify"
+}
+
 files {
   "html/ui.html",
   "html/js/script.js",
