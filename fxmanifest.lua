@@ -21,14 +21,7 @@ files {
 
 ui_page "html/ui.html"
 
-shared_scripts {
-  "config.lua"
-}
-
 client_scripts {
+  "config.lua",
   "client/cl_*.lua"
-}
-
-server_scripts {
-  "server/server.lua"
 }
