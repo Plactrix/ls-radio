@@ -21,7 +21,7 @@ A simple radio script used for Non-ESX servers using TokoVoIP
 
 ### Support
 
-If you require any assistance with installation, bugs, or anything at all, feel free to create an issue on github or join our Discord server (discord.gg/DEQ95eVmQ3)[https://discord.gg/DEQ95eVmQ3]
+If you require any assistance with installation, bugs, or anything at all, feel free to create an issue on github or join our Discord server [discord.gg/DEQ95eVmQ3](https://discord.gg/DEQ95eVmQ3)
 
 ### Screenshots
 
