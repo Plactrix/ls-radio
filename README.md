@@ -7,7 +7,7 @@
 This resource is **Untested**. If there are any bugs, please let me know and I will fix them as soon as possible
 
 ### To-Do List
-- [] Add restricted channels via Ace Perms
+- [ ] Add restricted channels via Ace Perms
 
 ### Requirements
 * [mythic_notify](https://github.com/JayMontana36/mythic_notify)
